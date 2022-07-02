@@ -1,3 +1,3 @@
 # odin-recipes
 
-Recipes's Proyect, first HTML proyect part of Odin's curriculum
+Recipe's Proyect, first HTML proyect of Odin's curriculum
